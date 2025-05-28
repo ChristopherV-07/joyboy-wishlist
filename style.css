@@ -1,3 +1,11 @@
+h1{
+  font-family: "Micro 5", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 50px;
+  color:rgb(61, 61, 61);
+}
+
 .wishlist{
   width:80%;
   background-color:rgb(199, 172, 146);
@@ -6,10 +14,61 @@
 }
 
 body{
-  background-color:rgb(212, 224, 155);
+  background-image:linear-gradient(to bottom right,rgb(68, 67, 65), rgb(191, 218, 151)  );
 }
 
 img{
   width: auto;
   max-width: 80%;
+}
+hr{
+  border: 2px solid rgb(53, 103, 130);
+  border-radius: 3px;
+}
+
+.item h2{  
+  font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 40px;
+  color:antiquewhite;
+}
+
+.item h3{
+  font-family: "Jersey 25", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 30px;
+  color:rgba(72, 72, 0, 0.64)
+}
+
+.item p{
+  font-family: "Jersey 25", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+  color:rgb(81, 62, 33);
+}
+
+#extra li{
+  font-family: "Jersey 25", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+  color:rgb(61, 61, 61);
+}
+
+#extra h2{
+  font-family: "Jersey 25", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 30px;
+  color:rgb(152, 50, 50);
+}
+
+a{
+  font-family: "Jersey 25", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
 }
